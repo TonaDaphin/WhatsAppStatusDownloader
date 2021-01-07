@@ -3,5 +3,5 @@ WhatsApp Status Downloader for Android
 
 ## Screenshots
 
-[Images](src/main/imageScreenshot.jpeg)<br>
-[Videos](src/main/videoScreenshot.jpeg)<br>
+[Images](src/imageScreenshot.jpeg)<br>
+[Videos](src/videoScreenshot.jpeg)<br>
